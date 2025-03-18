@@ -17,7 +17,6 @@ enables = [
 ]
 
 [buildPlans.IosevkaDgMono.variants.design]
-one = "base"
 two = "curly-neck-serifless"
 five = "oblique-arched-serifless"
 six = "open-contour"
@@ -49,7 +48,6 @@ g = "double-storey"
 h = "straight-top-left-serifed"
 j = "flat-hook-serifed"
 k = "straight-top-left-serifed"
-l = "serifed-flat-tailed"
 m = "short-leg-top-left-serifed"
 n = "straight-top-left-serifed"
 p = "eared-serifed"
@@ -110,7 +108,6 @@ g = "single-storey-serifless"
 h = "straight-top-left-serifed"
 j = "serifed"
 k = "diagonal-tailed-cursive-top-left-serifed"
-l = "tailed-serifed"
 m = "short-leg-top-left-serifed"
 n = "straight-top-left-serifed"
 p = "eared-motion-serifed"
